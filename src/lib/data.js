@@ -50,6 +50,12 @@ export const data = [
         path: "/multiplication-division/arrays",
         type: "subtopic",
       },
+      {
+        title: "Hundreds Square",
+        description: "Show relationships patterns for times tables",
+        path: "/multiplication-division/hundreds-square",
+        type: "subtopic",
+      },
       // Add more subtopics as needed
     ],
   },
