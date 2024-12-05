@@ -29,7 +29,7 @@
     />
   </div>
 
-  <h1 class="text-2xl">Click on a topic or use the search bar above</h1>
+  <h1 class="text-2xl">Explore a unit or search for a specific maths visual</h1>
   <!-- Display All Main Topics Initially (When No Search Query) -->
   {#if !searchQuery}
     <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
