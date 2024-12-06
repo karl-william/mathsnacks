@@ -3,6 +3,24 @@
 // Main Topics with Subtopics
 export const data = [
   {
+    title: "AI Assistant",
+    description: "Helps you plan maths lessons.",
+    path: "/ai-assistant",
+    type: "premium",
+    subtopics: [
+      // Add more subtopics as needed
+    ],
+  },
+  {
+    title: "Addition and Subtraction",
+    description: "Explore addition and subtraction concepts.",
+    path: "/addition-subtraction",
+    type: "topic",
+    subtopics: [
+      // Add more subtopics as needed
+    ],
+  },
+  {
     title: "Number and Place Value",
     description: "Understand the value of digits in numbers.",
     path: "/number-place-value",
@@ -18,6 +36,12 @@ export const data = [
         title: "Number Line",
         description: "Understand numbers through position on a line.",
         path: "/number-place-value/number-line",
+        type: "subtopic",
+      },
+      {
+        title: "Part Whole Model",
+        description: "Visually represent the partitioning of numbers",
+        path: "/number-place-value/part-whole-model",
         type: "subtopic",
       },
       {
