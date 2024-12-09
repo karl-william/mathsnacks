@@ -1,3 +1,3 @@
 <div>
-<img src="English.jpg" alt="Alternative text">
+<img src="English.png" alt="Alternative text">
 </div>
